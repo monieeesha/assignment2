@@ -1,2 +1,5 @@
 -->this is Ylg saloon responsive website
+-->it is mainly abpout the beauty essentials,services and products of YLG.
+-->it shows the exciting services og YLG.
+-->with homeservice bookin facility
 -->https://monieeesha.github.io/assignment2/.
