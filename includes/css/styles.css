@@ -78,8 +78,8 @@ font-size:12px;
 .navbar-brand {
 	padding: 13px 15px;
 }
-   
-   
+
+
 /* --------------------------------------
    Carousel
    -------------------------------------- */
@@ -248,19 +248,19 @@ width:400px;
 {
 text-align: center;
 }
-#pic
-{
-padding-left: 135px;
-padding-top: 15px;
-}
+
 #alg
 {
-	text-align: justify;
+text-align: justify;
 }
 #resize
 {
   height: 50px;
   width:50px;	
+}
+#pic{
+    display: block;
+    margin: 0 auto;
 }
 
 
